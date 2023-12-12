@@ -9,8 +9,6 @@ This is a simple implementation of a quote REST API for a fictional insurance co
 * SQLAlchemy with a SQLite backend for data persistence
 * Marshmallow to validate input data and (de)serialize data
 
-The API .
-
 The **Quote** entity allows for new quotes to be added, existing attributes to be updated and pricing to be obtained by calling the applicable Quote API endpoint.
 
 The **State** entity allows for new states to be added or pricing variables to be updated calling the applicable State API endpoints.
